@@ -1,0 +1,40 @@
+button{
+    border-radius: 20px;
+    background:  rgb(255, 196, 0);
+    border: none;
+    padding: 10px;
+    margin: 5px;
+}
+input{
+    border-radius: 5px;
+    height: 25px;
+    border: none;
+}
+ul{
+    color: white;
+    text-align: center;
+    list-style: none;
+
+}
+ul .li{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+
+}
+body{
+    background-color:rgb(94, 94, 94) ;
+    text-align: center;
+}
+.textSussecs{
+    background-color: rgb(53, 187, 0);
+}
+#DeleteAll{
+    background-color: red;
+    color: white;
+}
+h1{
+    font-size: 70px;
+    color: White;
+    font-family:Arial, Helvetica, sans-serif;
+}
